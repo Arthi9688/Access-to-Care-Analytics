@@ -103,6 +103,9 @@ This project is meant to demonstrate BI modeling, data cleaning, and operational
 -Designing visuals for non-technical users
 -Translating operational metrics into actionable insight
 
+<img width="1333" height="748" alt="image" src="https://github.com/user-attachments/assets/59fe7974-beef-4477-a7da-375d1b19885f" />
+
+
 ## 📬 Author
 
 ### Arthi Anbalagan
